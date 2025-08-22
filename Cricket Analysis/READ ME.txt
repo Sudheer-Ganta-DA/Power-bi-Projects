@@ -1,0 +1,1 @@
+This is cricket data analysis power bi project which includes batting, bowling and fielding.

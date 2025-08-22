@@ -1,0 +1,1 @@
+https://stats.espncricinfo.com/ci/engine/stats/index.html?class=2;home_or_away=2;host=1;opposition=1;team=6;template=results;type=batting
